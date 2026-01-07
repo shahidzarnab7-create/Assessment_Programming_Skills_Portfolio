@@ -1,0 +1,9 @@
+#Exercise 6: Brute Force Attack  (Coding is cool)
+correct_password = "12345"
+
+password = ""
+
+while password != correct_password:
+    password = input("Enter your password: ")
+
+print("Access Granted")
