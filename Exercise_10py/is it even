@@ -1,0 +1,8 @@
+# Exercise 10: Is it even
+#This Program will show even and odd
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
